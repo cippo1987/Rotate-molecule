@@ -1,9 +1,0 @@
-This program generates the POSCAR for hybrid perovskites with a MA molecule in the center.
-It needs an input file.
-n the first line there should be the lattice of the cubic perovskites: x.yzw
-on the secon line the angle of tilting of MA molecule
-n.m l.p
-
-Ex
-5.705
-0.0 45.0 
